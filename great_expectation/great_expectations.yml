@@ -1,8 +1,0 @@
-config_version: 3.0
-datasources: {}
-stores: {}
-validations_store_name: validations_store
-expectations_store_name: expectations_store
-checkpoint_store_name: checkpoint_store
-anonymous_usage_statistics:
-  enabled: false
